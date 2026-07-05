@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivek07-s/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1470-shuffle-the-array](https://github.com/vivek07-s/leetcode/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/vivek07-s/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vivek07-s/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
