@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivek07-s/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0724-find-pivot-index](https://github.com/vivek07-s/leetcode/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/vivek07-s/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vivek07-s/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/vivek07-s/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -25,5 +26,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/vivek07-s/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vivek07-s/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
