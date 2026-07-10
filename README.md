@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vivek07-s/leetcode/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivek07-s/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0724-find-pivot-index](https://github.com/vivek07-s/leetcode/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/vivek07-s/leetcode/tree/master/1470-shuffle-the-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vivek07-s/leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/vivek07-s/leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
